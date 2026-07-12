@@ -1,0 +1,6 @@
+{
+  "name": "3D Orchard Snake Game",
+  "description": "A classic 3D Snake game set in a cozy orchard with real-time transaction processing, secure authentication, skin shop, and leaderboard system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
